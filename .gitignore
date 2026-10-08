@@ -1,0 +1,7 @@
+.DS_Store
+.pdf-pages/
+.swift-module-cache/
+.pdf_extract.swift
+AGENTS.md
+tmp/
+node_modules/
